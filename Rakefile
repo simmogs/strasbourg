@@ -15,12 +15,12 @@ require 'jeweler'
 Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://docs.rubygems.org/read/chapter/20 for more options
   gem.name = "strasbourg"
-  gem.homepage = "http://github.com/dbourguignon/strasbourg"
+  gem.homepage = "http://github.com/simmogs/strasbourg"
   gem.license = "MIT"
   gem.summary = %Q{TODO: one-line summary of your gem}
   gem.description = %Q{TODO: longer description of your gem}
-  gem.email = "david.bourguignon@novelys.com"
-  gem.authors = ["David Bourguignon"]
+  gem.email = "graeme@simmo.gs"
+  gem.authors = ["David Bourguignon", "Graeme Simpson"]
   # dependencies defined in Gemfile
 end
 Jeweler::RubygemsDotOrgTasks.new
